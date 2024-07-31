@@ -7,10 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1t6PJrmef8ryq230B-In3s9XpmUbJdSme
 """
 
-# Install necessary packages
-!pip install torch torchvision
-!pip install torch torchvision torchattacks
-
 import torch
 import torch.nn as nn
 import torch.optim as optim
